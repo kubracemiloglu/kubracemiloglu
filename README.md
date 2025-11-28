@@ -29,7 +29,7 @@ Currently improving my skills in **React**, **Next.js**, **C#**, **ASP.NET Core*
 ---
 
 ## 📫 Contact Me
-- Email: **kcemiloglu1919@gmail.com**  
+- Email: **kubranurcemiloglu1@gmail.com**  
 - Location: İzmir, Türkiye  
 
 ---
