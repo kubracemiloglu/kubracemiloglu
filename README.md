@@ -1,19 +1,28 @@
-# Merhaba, ben Kübra Nur Cemiloğlu 👋
+# Hi, I'm Kübra Nur Cemiloğlu 👋
 
-Ege Üniversitesi Bilgisayar Programcılığı programından 2026 yılında mezun oldum. C# ve .NET teknolojileriyle web ve masaüstü uygulamaları geliştiriyorum.
+I graduated from Ege University’s Computer Programming program in 2026. I develop web and desktop applications using C# and .NET technologies.
 
-## Teknik Yetkinlikler
+## Technical Skills
 
-* C#, .NET, ASP.NET Core MVC ve Web API
-* Entity Framework Core, SQL, SQLite ve MySQL
-* Windows Forms, ClosedXML ve REST API
-* HTML, CSS, JavaScript ve Git
+* C#, .NET, ASP.NET Core MVC and Web API
+* Entity Framework Core, SQL, SQLite and MySQL
+* Windows Forms, ClosedXML and REST APIs
+* HTML, CSS, JavaScript and Git
 
-## Öne Çıkan Projeler
+## Featured Projects
 
-* [KodlaBil – Blok Tabanlı Eğitim Platformu](https://github.com/kubracemiloglu/kodlabil-showcase)
-* [KNC Budget – Bütçe Takip Uygulaması](https://github.com/kubracemiloglu/knc-budget)
+### [DersTalepWeb](https://github.com/kubracemiloglu/DersTalepWeb)
 
-## İletişim
+A role-based classroom and teaching assignment request system developed with ASP.NET Core MVC, Entity Framework Core and SQLite.
+
+### [KodlaBil](https://github.com/kubracemiloglu/kodlabil-showcase)
+
+A Blockly-based educational platform with student and teacher roles, progress tracking and a RESTful ASP.NET Core Web API.
+
+### [KNC Budget](https://github.com/kubracemiloglu/knc-budget)
+
+A responsive budget and savings goal tracker developed with Next.js, TypeScript and browser-based local storage.
+
+## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/kubranurcemiloglu)
