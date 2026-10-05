@@ -1,24 +1,22 @@
-# Hi, I'm Kübra Nur Cemiloğlu 👋
+# Merhaba, ben Kübra Nur Cemiloğlu
 
-I graduated from Ege University’s Computer Programming program in 2026. I develop web and desktop applications using C# and .NET technologies.
+Ege Üniversitesi Bilgisayar Programcılığı mezunuyum. İzmir'de veya uzaktan junior pozisyonlar arıyorum.
 
-## Technical Skills
+C#/.NET ve backend/web geliştirme rollerinin yanı sıra yazılım destek, ERP destek, IT/Help Desk ve QA rollerine başvuruyorum.
 
-- C#, .NET, ASP.NET Core MVC and Web API
-- Entity Framework Core, SQL, SQLite and MySQL
-- Windows Forms, ClosedXML and REST APIs
-- HTML, CSS, JavaScript and Git
+## Proje çalışmalarımda kullandığım teknolojiler
 
-## Featured Projects
+C#, ASP.NET Core MVC ve Web API, Entity Framework Core, SQL Server / MySQL; HTML, CSS, JavaScript, TypeScript, React, Next.js ve Git.
 
-### [KodlaBil](https://github.com/kubracemiloglu/kodlabil-showcase)
+## Seçili çalışmalar
 
-A Blockly-based educational platform with student and teacher roles, progress tracking and an ASP.NET Core Web API.
+| Proje | Kapsam |
+| --- | --- |
+| [Etkinlik Anket Sistemi](https://github.com/kubracemiloglu/etkinlik-anket-sistemi) | ASP.NET Core MVC, SQL Server; anket oluşturma, cevap toplama ve raporlama. |
+| [KNC Budget](https://github.com/kubracemiloglu/knc-budget) | React / Next.js; gelir, gider ve hedef takibi, tarayıcıda kayıt saklama. |
+| [KodlaBil](https://github.com/kubracemiloglu/kodlabil-showcase) | Ekip bitirme projesinin izinli tanıtımı; Blockly tabanlı eğitim arayüzü ve ASP.NET Core API. Tasarım, kod ve veritabanı çalışmalarına katkı sağladım. |
+| [QR Menü Demo](https://github.com/kubracemiloglu/qr-menu-demo) | Mobil menü, kategori seçimi ve ürün detayları; sentetik işletme verileri. |
 
-### [KNC Budget](https://github.com/kubracemiloglu/knc-budget)
+Depolarda kurulum adımları, yapılan kontroller ve bilinen eksikler yer alır. Ekran görüntülerindeki demo kayıtları sentetiktir.
 
-A responsive application for tracking income, expenses, spending limits and savings goals with browser-based data storage.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/kubranurcemiloglu)
+[LinkedIn](https://www.linkedin.com/in/kubranurcemiloglu)
